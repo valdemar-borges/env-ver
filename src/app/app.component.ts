@@ -11,6 +11,8 @@ export class AppComponent implements OnInit {
 
 
   serverInfo!: any;
+  serverNames!: any;
+  keys : any;
 
   constructor(private clientService: ClientService){
   }
