@@ -144,6 +144,10 @@
       "description": "Kelvin Platform - santos-staging"
     },
     {
+      "url": "https://silicaresources-staging.kelvin.ai/api/v4",
+      "description": "Kelvin Platform - silica-staging"
+    },
+    {
       "url": "https://silicaresources.kelvin.ai/api/v4",
       "description": "Kelvin Platform - silicaresources"
     },
